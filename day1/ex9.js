@@ -1,0 +1,1 @@
+let firstName = 'Fábio', lastName = 'Yoshida', maritalStatus = 'Single', country = 'Brazil', age = 25
